@@ -1,0 +1,29 @@
+{
+  "name": "regent_study_tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wiris/mathtype-tinymce5": "^8.2.6",
+    "@wiris/mathtype-tinymce6": "^8.2.6",
+    "aws-sdk": "^2.1353.0",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "node": "^19.8.1",
+    "nodemon": "^2.0.22",
+    "passport": "^0.6.0",
+    "passport-google-oauth2": "^0.2.0"
+  }
+}

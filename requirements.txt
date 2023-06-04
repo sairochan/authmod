@@ -1,0 +1,5 @@
+npm install
+npm install express-session
+npm install passport
+npm install passport-google-oauth2
+npm install mysql --save
