@@ -1,4 +1,4 @@
-# Exam Study Tool
+#Study Tool
 
 ### File Name Convention
 * Filenames should begin with s_, t_, a_ for student, teacher and admin portal specific files respectively.
@@ -7,9 +7,6 @@
 
 ---
 
-### IMPORTANT!! --- How to Commit Files?
-* Do not commit changes or add new files to 'main'.
-* Always select "Create a new branch for this commit and start a pull request." and then create a pull request.
 
 ### Repository Structure
 .  
@@ -56,9 +53,5 @@
  
 ---
  
-#### Do's and Dont's
-* css common for all the pages will be in style.css file
-* If a css file is specific to a particular filename.ejs page, then save that file as filename.css in public/stylesheets folder
-* If a js file is specific to a particular filename.ejs page, then save that file as filename.js in public/javascripts folder
 
 ---
